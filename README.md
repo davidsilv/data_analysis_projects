@@ -1,3 +1,3 @@
-# machine_learning
+# Data Analysis Projects
 
-Here I will add my machine learning projects that I have been working on.
+Here I will add my data analysis projects that I have been working on.

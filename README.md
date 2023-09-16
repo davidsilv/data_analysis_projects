@@ -1,3 +1,3 @@
 # Data Analysis Projects
 
-Here I will add my data analysis projects that I have been working on.
+Here I'll add my data analysis projects that I'm working on.
